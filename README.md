@@ -3,7 +3,11 @@ HR ATTRITION DASHBOARD
 
 Project Overview
 During my internship at MeriSKILL as a Data Analyst, I developed an elaborate HR Attrition Dashboard using Power BI. This dashboard features five interconnected pages, with a central Home Page serving as a gateway to four detailed sections: Demographic, Employee Wellness, Turnover Analysis I, and Turnover Analysis II.
+
+
 •	Live Dashboard:(https://app.powerbi.com/view?r=eyJrIjoiMTk0MWRiYjItZGU5Ny00NTZmLWE0MzAtOGU2MmYwY2E1ZGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9) 
+
+
 Dashboard Overview
 1.	Home Page: Offers a summary of the dashboard's contents, facilitating easy navigation to detailed insights. The Demographic section presents employee statistics, enhancing understanding of workforce diversity and commuting trends. The Employee Wellness section examines factors influencing turnover, supporting strategies aimed at boosting retention.
 2.	Demographic: Delivers insights into employee statistics such as age groups, gender distribution, commuting distances, and marital status, enabling informed decision-making regarding workforce diversity and commuting trends.
