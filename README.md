@@ -1,7 +1,5 @@
-**HR ATTRITION DASHBOARD**
 
-
-**Project Overview**
+# Project Overview
 During my internship at MeriSKILL as a Data Analyst, I developed an elaborate HR Attrition Dashboard using Power BI. This dashboard features five interconnected pages, with a central Home Page serving as a gateway to four detailed sections: Demographic, Employee Wellness, Turnover Analysis I, and Turnover Analysis II.
 
 
