@@ -21,5 +21,5 @@ Screenshot
  ![image](https://github.com/alpanakislay/HR-ATTRITION-DASHBOARD/assets/170240674/34930819-8acf-4a6d-87c9-e9c5fcbdccfb)
  ![image](https://github.com/alpanakislay/HR-ATTRITION-DASHBOARD/assets/170240674/25a9a5dc-03b5-4c69-a26d-f4a36ba70ca4)
  
-Tool(s) Used
+# Tool(s) Used
 •	Power BI
