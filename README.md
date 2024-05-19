@@ -6,7 +6,8 @@ During my internship at MeriSKILL as a Data Analyst, I developed an elaborate HR
 Live Dashboard: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiMTk0MWRiYjItZGU5Ny00NTZmLWE0MzAtOGU2MmYwY2E1ZGIzIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
-Dashboard Overview
+# Dashboard Overview
+
 1.	Home Page: Offers a summary of the dashboard's contents, facilitating easy navigation to detailed insights. The Demographic section presents employee statistics, enhancing understanding of workforce diversity and commuting trends. The Employee Wellness section examines factors influencing turnover, supporting strategies aimed at boosting retention.
 2.	Demographic: Delivers insights into employee statistics such as age groups, gender distribution, commuting distances, and marital status, enabling informed decision-making regarding workforce diversity and commuting trends.
 3.	Employee Wellness: Evaluates factors influencing turnover, including work-life balance, job satisfaction, relationships, and job involvement, to support strategies aimed at enhancing retention.
